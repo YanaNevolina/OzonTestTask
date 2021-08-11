@@ -1,0 +1,20 @@
+message "Validation error", count 6, most count user type 1
+message "AntiFraud", count 6, most count user type 2
+message "Unkown user", count 4, most count user type 1
+
+4024	"Validation error"
+3867	"Unkown user"
+3080	"AntiFraud"
+1002	"Validation error"
+5227	"Unkown user"
+2193	"AntiFraud"
+9678	"AntiFraud"
+7517	"Validation error"
+735	"AntiFraud"
+6195	"Unkown user"
+5945	"Validation error"
+5500	"Validation error"
+9028	"Unkown user"
+5938	"AntiFraud"
+3438	"Validation error"
+1650	"AntiFraud"
