@@ -24,11 +24,13 @@
 
 Исходные коды программы находятся в файле [task1_for_OZON.py](task1_for_OZON.py)
 
-Для запуска программы нужно:
+
+**Для запуска программы нужно:**
 
 Установить зависимости из [requrements.txt](requirements.txt)
 
-Для проверки файла [output.txt](output.txt) нужно:
+
+**Для проверки файла [output.txt](output.txt) нужно:**
 
 Запустить [test_main.py](test_main.py)
 
