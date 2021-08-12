@@ -22,8 +22,13 @@
 разделяемых табуляцией, в произвольном порядке. Вывод осуществляется в файл [output.txt](output.txt). Вывод должен быть человекочитаемым, 
 ожидаемый пример структуры файла [output_expected.txt](output_expected.txt).
 
-Исходные коды программы находятся в файле [test_avito_shopx.py](test_avito_shopx.py)
+Исходные коды программы находятся в файле [task1_for_OZON.py](task1_for_OZON.py)
 
 Для запуска программы нужно:
+
 Установить зависимости из [requrements.txt](requirements.txt)
+
+Для проверки файла [output.txt](output.txt) нужно:
+
+Запустить [test_mail.py](test_mail.py)
 
