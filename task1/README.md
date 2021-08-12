@@ -30,7 +30,7 @@
 Установить зависимости из [requrements.txt](requirements.txt)
 
 
-**Для проверки файла [output.txt](output.txt) нужно:**
+**Для азпуска теста сравнивающего результат выполнения программы [output.txt](output.txt) и ожидаемый результат [output_expected.txt](output_expected.txt) из задания запустите команду `pytest`:**
 
 Запустить [test_main.py](test_main.py)
 
