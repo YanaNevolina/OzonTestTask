@@ -30,5 +30,5 @@
 
 Для проверки файла [output.txt](output.txt) нужно:
 
-Запустить [test_mail.py](test_mail.py)
+Запустить [test_main.py](test_main.py)
 
